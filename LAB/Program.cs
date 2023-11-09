@@ -21,7 +21,6 @@ namespace LAB
 
 
             Console.WriteLine("Домашнее задание 9.1");
-            Console.WriteLine("Домашнее задание 8.2");
             List<Song> songs = new List<Song>();
             Song song1 = new Song("Я Русский", "SHAMAN");
             
